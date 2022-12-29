@@ -1,0 +1,19 @@
+button{
+    width: 250px;
+    height: 80px;
+    cursor: pointer;
+    font-size: 20px;
+    color: white;
+}
+
+button:hover{
+    background-color: green;
+}
+
+.boton-clic{
+    background-color: blue;
+}
+
+.boton-reiniciar{
+    background-color: red;
+}
